@@ -4,5 +4,5 @@ are provided during registration.
 ### Features and Database
 - Registration
 - Login
-- Structured Query Language
+- Structured Query Language 
 
